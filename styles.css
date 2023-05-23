@@ -3,8 +3,9 @@
 	width:200px;
 	background-color:purple;
 	border-left:5px solid green;
+}
+#heading{
 	padding:10px;
 	font-size:20px;
 	color:white;
-	
 }
